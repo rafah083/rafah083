@@ -41,7 +41,7 @@ Rodapé e Contato
 
 ---
 ### 📫 Vamos nos conectar?
-* **Instagram:** [@rafael__developer]((https://www.instagram.com/rafaelsilva_dev/))
+* **Instagram:** ((https://www.instagram.com/rafaelsilva_dev/))
 * **LinkedIn:** [https://www.linkedin.com/in/rafael-silva-soares-/]
 * **Email:** [rafaelsilvasoares022@gmail.com]
 
