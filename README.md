@@ -33,7 +33,7 @@ Meu foco principal é o **Desenvolvimento Backend**, onde venho aprimorando minh
 <!-- Experiência e Voluntariado -->
 
 ### 🚀 Experiência e Voluntariado
-**Desenvolvedor Voluntário @ Harmonicanto**
+**Desenvolvedor Voluntário na Ong Harmonicanto**
 * Atuação com foco em **LGPD (Lei Geral de Proteção de Dados)** e Cibersegurança.
 * Colaboração em equipe utilizando **metodologias ágeis**.
 * Organização e gerenciamento de fluxo de trabalho via Trello.
