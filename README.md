@@ -50,11 +50,17 @@ Meu foco principal é o **Desenvolvimento Backend**, onde venho aprimorando minh
 * Desenvolvimento e gerenciamento de um canal no Telegram para automação de ofertas.
 * Foco em automação de postagens e integração de sistemas.
 
-Rodapé e Contato
-
+### Rodapé e Contato
 ---
 ### 📫 Vamos nos conectar?
-* **Instagram:** ((https://www.instagram.com/rafaelsilva_dev/))
-* **LinkedIn:** [https://www.linkedin.com/in/rafael-silva-soares-/]
-* **Email:** [rafaelsilvasoares022@gmail.com]
+###
 
+<div align="center">
+  <a href="www.linkedin.com/in/rafael-silva-soares-" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
