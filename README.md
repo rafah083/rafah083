@@ -50,10 +50,9 @@ Meu foco principal é o **Desenvolvimento Backend**, onde venho aprimorando minh
 * Desenvolvimento e gerenciamento de um canal no Telegram para automação de ofertas.
 * Foco em automação de postagens e integração de sistemas.
 
-### Rodapé e Contato
 ---
+
 ### 📫 Vamos nos conectar?
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/rafael-silva-soares-" target="_blank">
